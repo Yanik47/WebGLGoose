@@ -10,6 +10,9 @@ The code solves the given task but has some limitations. I chose not to fix thes
 
 ---
 
+### Parsed Image 
+![ParsedImage](https://drive.google.com/uc?export=view&id=1U4gR8-uYTjc1SEWV4yhm4-n-to_Z6jBT)
+
 ## How It Works
 
 ### 1. **Image Processing**
